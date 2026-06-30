@@ -1,0 +1,515 @@
+{
+  "brand": {
+    "name_ar": "ريفيد",
+    "name_en": "Refeed",
+    "tagline_ar": "جبن طازج بنكهة أصيلة",
+    "tagline_en": "Fresh cheese, authentic taste",
+    "facebook": "https://facebook.com",
+    "whatsapp": "https://wa.me/20100000000",
+    "instagram": "https://instagram.com",
+    "phone": "+20 100 000 0000",
+    "email": "info@refeed-cheese.com",
+    "address_ar": "مصر",
+    "address_en": "Egypt"
+  },
+  "categories": [
+    {
+      "id": "qareesh",
+      "name_ar": "جبنة قريش",
+      "name_en": "Qareesh (Cottage) Cheese"
+    },
+    {
+      "id": "feta",
+      "name_ar": "فيتا",
+      "name_en": "Feta"
+    },
+    {
+      "id": "halloumi",
+      "name_ar": "حلومي",
+      "name_en": "Halloumi"
+    },
+    {
+      "id": "baramily",
+      "name_ar": "براميلي",
+      "name_en": "Baramily"
+    },
+    {
+      "id": "cheddar_block",
+      "name_ar": "شيدر قالب",
+      "name_en": "Cheddar Block"
+    },
+    {
+      "id": "cheddar_slices",
+      "name_ar": "شيدر شرائح",
+      "name_en": "Cheddar Slices"
+    },
+    {
+      "id": "other",
+      "name_ar": "منتجات أخرى",
+      "name_en": "Other Products"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "qareesh",
+      "name_ar": "قريش سادة",
+      "name_en": "Plain Qareesh Cheese",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 35
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 65
+        },
+        {
+          "size_ar": "1 كجم",
+          "size_en": "1 kg",
+          "price": 120
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "qareesh",
+      "name_ar": "قريش حبة البركة",
+      "name_en": "Qareesh with Black Seed",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 38
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "qareesh",
+      "name_ar": "قريش فلفل ألوان",
+      "name_en": "Qareesh with Mixed Pepper",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 38
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 70
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "feta",
+      "name_ar": "فيتا فلفل",
+      "name_en": "Feta with Pepper",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 55
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "feta",
+      "name_ar": "فيتا زيتون",
+      "name_en": "Feta with Olives",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 55
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "feta",
+      "name_ar": "فيتا أفانتي سادة",
+      "name_en": "Avanti Feta Plain",
+      "sizes": [
+        {
+          "size_ar": "1/2 كجم",
+          "size_en": "0.5 kg",
+          "price": 95
+        },
+        {
+          "size_ar": "1 كجم",
+          "size_en": "1 kg",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "halloumi",
+      "name_ar": "حلومي بقطع الفلفل الحار",
+      "name_en": "Halloumi with Hot Pepper Bits",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 60
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 115
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "baramily",
+      "name_ar": "براميلي سادة",
+      "name_en": "Plain Baramily Cheese",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 45
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 85
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "baramily",
+      "name_ar": "براميلي فلفل أفانتي (علبة)",
+      "name_en": "Avanti Baramily Pepper (Tub)",
+      "sizes": [
+        {
+          "size_ar": "علبة 250 جم",
+          "size_en": "Tub 250 g",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "cheddar_block",
+      "name_ar": "شيدر سادة",
+      "name_en": "Plain Cheddar",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 50
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 95
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "cheddar_block",
+      "name_ar": "شيدر فلفلي",
+      "name_en": "Pepper Cheddar",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 52
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 98
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "cheddar_block",
+      "name_ar": "شيدر بسطرمة",
+      "name_en": "Pastrami Cheddar",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 55
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 105
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "cheddar_block",
+      "name_ar": "شيدر مدخن",
+      "name_en": "Smoked Cheddar",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 55
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 105
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "cheddar_block",
+      "name_ar": "شيدر مدخن فلفل",
+      "name_en": "Smoked Pepper Cheddar",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 56
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 108
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "cheddar_block",
+      "name_ar": "شيدر أعشاب",
+      "name_en": "Herb Cheddar",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 54
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 102
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "cheddar_block",
+      "name_ar": "شيدر لايت",
+      "name_en": "Light Cheddar",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 50
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 95
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "cheddar_slices",
+      "name_ar": "شيدر أحمر شرائح",
+      "name_en": "Red Cheddar Slices",
+      "sizes": [
+        {
+          "size_ar": "150 جم",
+          "size_en": "150 g",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "cheddar_slices",
+      "name_ar": "شيدر بسطرمة شرائح",
+      "name_en": "Pastrami Cheddar Slices",
+      "sizes": [
+        {
+          "size_ar": "150 جم",
+          "size_en": "150 g",
+          "price": 42
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "cheddar_slices",
+      "name_ar": "شيدر زيتون شرائح",
+      "name_en": "Olive Cheddar Slices",
+      "sizes": [
+        {
+          "size_ar": "150 جم",
+          "size_en": "150 g",
+          "price": 42
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "cheddar_slices",
+      "name_ar": "شيدر فلفل شرائح",
+      "name_en": "Pepper Cheddar Slices",
+      "sizes": [
+        {
+          "size_ar": "150 جم",
+          "size_en": "150 g",
+          "price": 42
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "cheddar_slices",
+      "name_ar": "شيدر مدخن فلفل شرائح",
+      "name_en": "Smoked Pepper Cheddar Slices",
+      "sizes": [
+        {
+          "size_ar": "150 جم",
+          "size_en": "150 g",
+          "price": 44
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "cheddar_slices",
+      "name_ar": "شيدر أعشاب شرائح",
+      "name_en": "Herb Cheddar Slices",
+      "sizes": [
+        {
+          "size_ar": "150 جم",
+          "size_en": "150 g",
+          "price": 44
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "cheddar_slices",
+      "name_ar": "شيدر حبة البركة شرائح",
+      "name_en": "Black Seed Cheddar Slices",
+      "sizes": [
+        {
+          "size_ar": "150 جم",
+          "size_en": "150 g",
+          "price": 44
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "other",
+      "name_ar": "زيت زيتون بكر ممتاز أفانتي",
+      "name_en": "Avanti Extra Virgin Olive Oil",
+      "sizes": [
+        {
+          "size_ar": "500 مل",
+          "size_en": "500 ml",
+          "price": 150
+        },
+        {
+          "size_ar": "1 لتر",
+          "size_en": "1 L",
+          "price": 280
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "category": "other",
+      "name_ar": "موزاريلا طبيعية أفانتي",
+      "name_en": "Avanti Natural Mozzarella",
+      "sizes": [
+        {
+          "size_ar": "250 جم",
+          "size_en": "250 g",
+          "price": 60
+        },
+        {
+          "size_ar": "500 جم",
+          "size_en": "500 g",
+          "price": 115
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "category": "other",
+      "name_ar": "جودا هولندي",
+      "name_en": "Dutch Gouda",
+      "sizes": [
+        {
+          "size_ar": "200 جم",
+          "size_en": "200 g",
+          "price": 65
+        },
+        {
+          "size_ar": "400 جم",
+          "size_en": "400 g",
+          "price": 125
+        }
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "name_ar": "سوبر ماركت الأمانة",
+      "name_en": "Al Amana Supermarket"
+    },
+    {
+      "name_ar": "مطاعم الذواقة",
+      "name_en": "Al Zawaqa Restaurants"
+    },
+    {
+      "name_ar": "فنادق النيل",
+      "name_en": "Nile Hotels"
+    },
+    {
+      "name_ar": "كافيهات داون تاون",
+      "name_en": "Downtown Cafes"
+    },
+    {
+      "name_ar": "هايبر ماركت الأسرة",
+      "name_en": "Al Osra Hypermarket"
+    },
+    {
+      "name_ar": "مخابز السنابل",
+      "name_en": "Al Sanabel Bakeries"
+    }
+  ],
+  "about_ar": "ريفيد علامة مصرية متخصصة في إنتاج الأجبان الطازجة بأنواعها المختلفة، نحرص على اختيار أجود أنواع الألبان وأحدث خطوط الإنتاج للحفاظ على الجودة والمذاق الأصيل في كل قالب جبن. نفتخر بخدمة المحلات والمطاعم والفنادق بمنتجات متنوعة تناسب كل الأذواق.",
+  "about_en": "Refeed is an Egyptian brand specialized in producing fresh cheese in many varieties. We carefully select the finest dairy and modern production lines to preserve quality and authentic taste in every block. We proudly supply shops, restaurants, and hotels with a wide range of products to suit every taste."
+}
